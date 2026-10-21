@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T15:27:21.056Z",
+  "updatedAt": "2026-10-21T15:58:28.724Z",
   "participants": [
     {
       "id": "851706d2-7b68-4cba-b408-ffe7585863ae",
@@ -28,6 +28,18 @@
         }
       ],
       "completedAt": "2026-10-21T15:27:20.103Z"
+    },
+    {
+      "id": "2f1e4dd4-26f9-45e8-8651-2ff1d8eaded0",
+      "firstName": "John",
+      "gender": "Male",
+      "chapter": "Lagos",
+      "registeredAt": "2026-10-21T15:58:31.019Z",
+      "status": "registered",
+      "distanceKm": 0,
+      "durationSeconds": 0,
+      "averageSpeedKmh": 0,
+      "track": []
     }
   ]
 }
