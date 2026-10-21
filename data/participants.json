@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T15:26:10.586Z",
+  "updatedAt": "2026-10-21T15:27:21.056Z",
   "participants": [
     {
       "id": "851706d2-7b68-4cba-b408-ffe7585863ae",
@@ -7,11 +7,27 @@
       "gender": "Male",
       "chapter": "Kaduna",
       "registeredAt": "2026-10-21T15:26:09.692Z",
-      "status": "registered",
-      "distanceKm": 0,
-      "durationSeconds": 0,
-      "averageSpeedKmh": 0,
-      "track": []
+      "status": "completed",
+      "distanceKm": 0.036,
+      "durationSeconds": 26,
+      "averageSpeedKmh": 5.03,
+      "track": [
+        {
+          "lat": 6.486173,
+          "lng": 3.371064,
+          "at": "2026-10-21T15:27:02.781Z",
+          "accuracy": 212,
+          "speedMps": null
+        },
+        {
+          "lat": 6.4858465,
+          "lng": 3.371077,
+          "at": "2026-10-21T15:27:08.190Z",
+          "accuracy": 141,
+          "speedMps": null
+        }
+      ],
+      "completedAt": "2026-10-21T15:27:20.103Z"
     }
   ]
 }
