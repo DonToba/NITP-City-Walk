@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T11:24:07.462Z",
+  "updatedAt": "2026-10-22T13:16:04.125Z",
   "participants": [
     {
       "id": "851706d2-7b68-4cba-b408-ffe7585863ae",
@@ -4009,6 +4009,18 @@
       "gender": "Male",
       "chapter": "Lagos",
       "registeredAt": "2026-10-22T11:24:07.091Z",
+      "status": "registered",
+      "distanceKm": 0,
+      "durationSeconds": 0,
+      "averageSpeedKmh": 0,
+      "track": []
+    },
+    {
+      "id": "84ba1164-5f90-43a6-92cd-7868a8a7efcb",
+      "firstName": "Oluwafemi",
+      "gender": "Male",
+      "chapter": "Lagos",
+      "registeredAt": "2026-10-22T13:16:03.152Z",
       "status": "registered",
       "distanceKm": 0,
       "durationSeconds": 0,
