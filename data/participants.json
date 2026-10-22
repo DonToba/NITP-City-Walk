@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T15:58:28.724Z",
+  "updatedAt": "2026-10-22T07:03:32.161Z",
   "participants": [
     {
       "id": "851706d2-7b68-4cba-b408-ffe7585863ae",
@@ -35,6 +35,18 @@
       "gender": "Male",
       "chapter": "Lagos",
       "registeredAt": "2026-10-21T15:58:31.019Z",
+      "status": "registered",
+      "distanceKm": 0,
+      "durationSeconds": 0,
+      "averageSpeedKmh": 0,
+      "track": []
+    },
+    {
+      "id": "60cfa7f6-457f-417a-b385-d1c20c62e0ad",
+      "firstName": "Toba",
+      "gender": "Female",
+      "chapter": "Benue",
+      "registeredAt": "2026-10-22T07:03:32.137Z",
       "status": "registered",
       "distanceKm": 0,
       "durationSeconds": 0,
