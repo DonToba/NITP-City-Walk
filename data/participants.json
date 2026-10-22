@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T07:38:37.129Z",
+  "updatedAt": "2026-10-22T11:24:07.462Z",
   "participants": [
     {
       "id": "851706d2-7b68-4cba-b408-ffe7585863ae",
@@ -4002,6 +4002,18 @@
         }
       ],
       "completedAt": "2026-10-22T07:38:36.303Z"
+    },
+    {
+      "id": "12cb43ef-d3e2-4bc2-bbd3-1a080e5a38f4",
+      "firstName": "Ezekiel",
+      "gender": "Male",
+      "chapter": "Lagos",
+      "registeredAt": "2026-10-22T11:24:07.091Z",
+      "status": "registered",
+      "distanceKm": 0,
+      "durationSeconds": 0,
+      "averageSpeedKmh": 0,
+      "track": []
     }
   ]
 }
