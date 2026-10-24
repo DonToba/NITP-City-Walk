@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T19:20:49.540Z",
+  "updatedAt": "2026-10-24T19:21:22.960Z",
   "participants": [
     {
       "id": "851706d2-7b68-4cba-b408-ffe7585863ae",
@@ -6316,6 +6316,18 @@
       "gender": "Female",
       "chapter": "Kaduna",
       "registeredAt": "2026-10-24T19:20:48.884Z",
+      "status": "registered",
+      "distanceKm": 0,
+      "durationSeconds": 0,
+      "averageSpeedKmh": 0,
+      "track": []
+    },
+    {
+      "id": "a1bc7de4-9d7a-4559-ab52-392ab98ef3e5",
+      "firstName": "Kehinde",
+      "gender": "Male",
+      "chapter": "Borno",
+      "registeredAt": "2026-10-24T19:21:22.372Z",
       "status": "registered",
       "distanceKm": 0,
       "durationSeconds": 0,
