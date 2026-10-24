@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T17:43:54.590Z",
+  "updatedAt": "2026-10-24T17:44:26.206Z",
   "participants": [
     {
       "id": "851706d2-7b68-4cba-b408-ffe7585863ae",
@@ -6295,11 +6295,20 @@
       "gender": "Female",
       "chapter": "Imo",
       "registeredAt": "2026-10-24T17:43:54.024Z",
-      "status": "registered",
+      "status": "completed",
       "distanceKm": 0,
-      "durationSeconds": 0,
+      "durationSeconds": 16,
       "averageSpeedKmh": 0,
-      "track": []
+      "track": [
+        {
+          "lat": 6.4854199999999995,
+          "lng": 3.37194,
+          "at": "2026-10-24T17:44:18.097Z",
+          "accuracy": 76,
+          "speedMps": null
+        }
+      ],
+      "completedAt": "2026-10-24T17:44:25.559Z"
     }
   ]
 }
