@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T17:44:26.206Z",
+  "updatedAt": "2026-10-24T19:20:49.540Z",
   "participants": [
     {
       "id": "851706d2-7b68-4cba-b408-ffe7585863ae",
@@ -6309,6 +6309,18 @@
         }
       ],
       "completedAt": "2026-10-24T17:44:25.559Z"
+    },
+    {
+      "id": "2dffa36b-c67d-45bd-a96b-261b7095c8ea",
+      "firstName": "Kehinde",
+      "gender": "Female",
+      "chapter": "Kaduna",
+      "registeredAt": "2026-10-24T19:20:48.884Z",
+      "status": "registered",
+      "distanceKm": 0,
+      "durationSeconds": 0,
+      "averageSpeedKmh": 0,
+      "track": []
     }
   ]
 }
