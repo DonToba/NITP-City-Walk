@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T12:57:58.748Z",
+  "updatedAt": "2026-10-24T17:39:34.849Z",
   "participants": [
     {
       "id": "851706d2-7b68-4cba-b408-ffe7585863ae",
@@ -6264,6 +6264,18 @@
         }
       ],
       "completedAt": "2026-10-23T12:57:57.709Z"
+    },
+    {
+      "id": "434f5dc8-d2c8-4939-8a72-8eb79c5fec3e",
+      "firstName": "lo",
+      "gender": "Female",
+      "chapter": "Kaduna",
+      "registeredAt": "2026-10-24T17:39:32.749Z",
+      "status": "registered",
+      "distanceKm": 0,
+      "durationSeconds": 0,
+      "averageSpeedKmh": 0,
+      "track": []
     }
   ]
 }
