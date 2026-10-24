@@ -1,66 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2">
-  <Document id="root_doc">
-    <name>Final Stop (JJT Park).kml</name>
-    <StyleMap id="m_ylw-pushpin">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#s_ylw-pushpin</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#s_ylw-pushpin_hl</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="s_ylw-pushpin">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-        </Icon>
-        <hotSpot x="20" xunits="pixels" y="2" yunits="pixels"/>
-      </IconStyle>
-    </Style>
-    <Style id="s_ylw-pushpin_hl">
-      <IconStyle>
-        <scale>1.3</scale>
-        <Icon>
-          <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-        </Icon>
-        <hotSpot x="20" xunits="pixels" y="2" yunits="pixels"/>
-      </IconStyle>
-    </Style>
-    <Placemark>
-      <name>Final Stop (JJT Park)</name>
-      <atom:link href="https://www.google.com/earth/about/versions/#earth-pro" rel="app" title="Google Earth Pro 7.3.7.1327"/>
-      <LookAt>
-        <longitude>3.36473770117492</longitude>
-        <latitude>6.61421216528551</latitude>
-        <altitude>0</altitude>
-        <heading>0.000707493719683087</heading>
-        <tilt>0</tilt>
-        <range>335.213500368561</range>
-        <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-      </LookAt>
-      <styleUrl>#m_ylw-pushpin</styleUrl>
-      <Point>
-        <coordinates>
-          3.36412217245413,6.61436307447319,0
-        </coordinates>
-        <gx:drawOrder>1</gx:drawOrder>
-      </Point>
-    </Placemark>
-    <Document id="final-stop">
-      <name>final-stop</name>
-      <Placemark id="final-stop.1">
-        <name>JJT Park (Final Stop)</name>
-        <Point>
-          <extrude>0</extrude>
-          <coordinates>
-            3.3634629717004,6.61528207321393,0
-          </coordinates>
-        </Point>
-      </Placemark>
-    </Document>
-  </Document>
-</kml>
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="final_stop2" id="final_stop2">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+</Schema>
+<Folder><name>final_stop2</name>
+  <Placemark>
+	<name>JJT Park (Final Stop)</name>
+	<ExtendedData><SchemaData schemaUrl="#final_stop2">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.3634629717004,6.61528207321393,0</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
