@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T19:28:48.629Z",
+  "updatedAt": "2026-10-24T19:31:37.463Z",
   "participants": [
     {
       "id": "851706d2-7b68-4cba-b408-ffe7585863ae",
@@ -6340,6 +6340,18 @@
       "gender": "Female",
       "chapter": "Imo",
       "registeredAt": "2026-10-24T19:28:48.096Z",
+      "status": "registered",
+      "distanceKm": 0,
+      "durationSeconds": 0,
+      "averageSpeedKmh": 0,
+      "track": []
+    },
+    {
+      "id": "1751a5da-9d69-4f9e-8997-a66367c97183",
+      "firstName": "Kehinde",
+      "gender": "Female",
+      "chapter": "Kano",
+      "registeredAt": "2026-10-24T19:31:36.975Z",
       "status": "registered",
       "distanceKm": 0,
       "durationSeconds": 0,
